@@ -1,0 +1,124 @@
+.rrr {
+    position: relative;
+    width: 139vh;
+    left: 14vh;
+    color: black;
+}
+
+.www {
+    position: relative;
+    width: 208vh;
+    height: 73vh;
+    background-color: dimgray;
+}
+
+div#two {
+    position: relative;
+    top: 7vh;
+    left: 9vh;
+    width: 190vh;
+}
+
+div#two iframe {
+    position: relative;
+    height: 57vh;
+    width: 105vh;
+    bottom: -1vh;
+}
+
+div#two h1 {
+    position: relative;
+    bottom: 60vh;
+    width: 60vh;
+    left: 113vh;
+    color: aliceblue;
+}
+
+div#two p {
+    position: relative;
+    bottom: 56vh;
+    width: 70vh;
+    left: 113vh;
+    color: aliceblue;
+}
+
+div#two ul {
+    position: relative;
+    bottom: 54vh;
+    left: 114vh;
+    width: 54vh;
+    color: aliceblue;
+}
+
+.aaa {
+    position: relative;
+    width: 208vh;
+    height: 82vh;
+    background-color: lightgray;
+    
+}
+
+div#three h1 {
+    position: relative;
+    width: 99vh;
+    left: 11vh;
+    top: 4vh;
+    color: black;
+}
+
+div#three p {
+    position: relative;
+    top: 7vh;
+    width: 69vh;
+    left: 12vh;
+    color: black;
+}
+
+div#three h4 {
+    position: relative;
+    width: 48vh;
+    left: 12vh;
+    top: 9vh;
+    color: black;
+}
+
+div#three ul {
+    position: relative;
+    bottom: -10vh;
+    left: 8vh;
+    width: 94vh;
+    color: black;
+}
+
+.sketchfab-embed-wrapper {
+    position: relative;
+    bottom: 52vh;
+    left: 117vh;
+    width: 48vh;
+    height: 23vh;
+}
+
+iframe {
+    position: relative;
+    height: 56vh;
+    width: 81vh;
+    bottom: 17vh;
+}
+
+.xxx {
+    position: relative;
+    bottom: 19vh;
+    width: 167vh;
+    height: 0vh;
+    left: 17vh;
+}
+
+div#four p {
+    color: black;
+    font-size: 18px;
+}
+
+div#four ul {
+    width: 80vh;
+    color: black;
+}

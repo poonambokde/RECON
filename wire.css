@@ -1,0 +1,70 @@
+div#wire1 img {
+    position: relative;
+    height: 48vh;
+    left: 10px;
+    box-shadow: 10px 10px 5px;
+    bottom: 19px;
+}
+
+div#wire1 p {
+    position: relative;
+    width: 85vh;
+    text-align: justify;
+    bottom: 46vh;
+    left: 102vh;
+}
+
+div#wire1 {
+    height: 45vh;
+}
+
+div#wire1 p::first-letter {
+    initial-letter: 3;
+    margin-right: 6px;
+}
+
+div#wire2 img {
+    position: relative;
+    height: 47vh;
+    left: 99vh;
+    bottom: -9vh;
+    box-shadow: 10px 10px 5px;
+}
+
+div#wire2 p {
+    position: relative;
+    left: 38px;
+    width: 82vh;
+    text-align: justify;
+    bottom: 34vh;
+}
+
+div#wire2 {
+    height: 56vh;
+}
+
+div#wire2 p::first-letter {
+    initial-letter: 3;
+    margin-right: 6px;
+}
+
+div#wire3 {
+    position: relative;
+    left: 24vh;
+    top: 30px;
+    padding: 40px;
+    width: 155vh;
+    text-align: justify;
+    border: 3px solid black;
+    background-color: bisque;
+    box-shadow: 1px 10px 50px 10px;
+    
+}
+
+div#wire3 h2 {
+    position: relative;
+    width: 97vh;
+    left: 24vh;
+    top: 5vh;
+}
+

@@ -1,0 +1,134 @@
+
+div#one {
+    position: relative;
+    width: 152vh;
+    left: 25vh;
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 700;
+    color: black;
+}
+
+div#two img {
+    position: relative;
+    height: 50vh;
+    left: 42px;
+    top: 29px;
+}
+
+div#two {
+    height: 52vh;
+}
+
+div#two h2 {
+    position: relative;
+    bottom: 43vh;
+    left: 80vh;
+    color: red;
+    font-family: sans-serif;
+    width: 71vh;
+}
+
+div#two p {
+    position: relative;
+    bottom: 39vh;
+    left: 80vh;
+    color: black;
+    font-family: sans-serif;
+    width: 63vh;
+}
+
+
+div#two ul {
+    position: relative;
+    bottom: 38vh;
+    left: 80vh;
+    color: black;
+    font-family: sans-serif;
+    width: 44vh;
+}
+
+div#three img {
+    position: relative;
+    height: 50vh;
+    left: 42px;
+    top: 114px;
+}
+
+div#three {
+    height: 65vh;
+}
+
+div#three h2 {
+    position: relative;
+    bottom: 33vh;
+    left: 80vh;
+    color: red;
+    font-family: sans-serif;
+}
+
+div#three p {
+    position: relative;
+    bottom: 31vh;
+    left: 80vh;
+    color: black;
+    font-family: sans-serif;
+    width: 63vh;
+}
+
+div#four img {
+    position: relative;
+    height: 50vh;
+    left: 42px;
+    top: 114px;
+    width: 66vh;
+}
+
+div#four {
+    height: 65vh;
+}
+
+div#four h2 {
+    position: relative;
+    bottom: 33vh;
+    left: 80vh;
+    color: red;
+    font-family: sans-serif;
+}
+
+div#four p {
+    position: relative;
+    bottom: 31vh;
+    left: 80vh;
+    color: black;
+    font-family: sans-serif;
+    width: 63vh;
+}
+
+div#five img {
+    position: relative;
+    height: 50vh;
+    left: 42px;
+    top: 114px;
+    width: 66vh;
+}
+
+div#five {
+    height: 65vh;
+}
+
+div#five h2 {
+    position: relative;
+    bottom: 33vh;
+    left: 80vh;
+    color: red;
+    font-family: sans-serif;
+}
+
+div#five p {
+    position: relative;
+    bottom: 31vh;
+    left: 80vh;
+    color: black;
+    font-family: sans-serif;
+    width: 63vh;
+}

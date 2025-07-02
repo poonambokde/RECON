@@ -1,0 +1,130 @@
+div#reno1 {
+    position: relative;
+    bottom: 0vh;
+    height: 1vh;
+}
+
+div#reno img {
+    position: relative;
+    height: 55vh;
+    width: 100vh;
+    box-shadow: 10px 10px 10px;
+}
+
+
+div#reno1 img {
+    position: relative;
+    height: 55vh;
+    left: 107vh;
+    width: 100vh;
+    bottom: 105.4vh;
+    box-shadow: 10px 10px 10px;
+}
+
+
+
+div#reno2 img {
+    position: relative;
+    height: 49vh;
+    left: 0vh;
+    width: 100vh;
+    bottom: -12vh;
+    box-shadow: 10px 10px 10px;
+}
+
+
+
+div#reno2 {
+    height: 194vh;
+}
+
+div#reno h3 {
+    position: relative;
+    bottom: -26px;
+    left: 20vh;
+    width: 61vh;
+}
+
+div#reno p {
+    text-align: justify;
+    position: relative;
+    left: 2vh;
+    bottom: -5vh;
+    width: 98vh;
+    
+}
+
+div#reno1 h3 {
+    position: relative;
+    left: 123vh;
+    bottom: 102vh;
+    width: 504px;
+}
+
+
+
+div#reno1 p {
+    position: relative;
+    width: 100vh;
+    bottom: 100vh;
+    left: 106vh;
+    text-align: justify;
+}
+
+div#reno2 {
+    position: relative;
+    height: 1vh;
+    bottom: 0px;
+}
+
+div#reno2 h3 {
+    position: relative;
+    bottom: -16vh;
+    left: 13vh;
+    width: 78vh;
+}
+
+div#reno2 p {
+    position: relative;
+    width: 98vh;
+    left: 2vh;
+    bottom: -18vh;
+    text-align: justify;
+}
+
+
+
+
+
+div#reno3 img {
+    position: relative;
+    height: 49vh;
+    left: 107vh;
+    width: 100vh;
+    bottom: -11vh;
+    box-shadow: 10px 10px 10px;
+}
+
+
+
+div#reno3 h3 {
+    position: relative;
+    left: 133vh;
+    bottom: -15vh;
+    width: 54vh;
+}
+
+div#reno3 p {
+    position: relative;
+    width: 98vh;
+    left: 107vh;
+    bottom: -17vh;
+    text-align: justify;
+}
+
+.container-fluid.bg-dark.footer.mt-5.pt-5.wow.fadeIn {
+    position: relative;
+    top: 17vh;
+}
+
+

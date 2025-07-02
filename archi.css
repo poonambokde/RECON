@@ -1,0 +1,165 @@
+.fff {
+    position: relative;
+    top: 5vh;
+}
+
+div#ten h1 {
+    position: relative;
+    width: 144vh;
+    left: 24vh;
+    color: red;
+}
+
+div#ten p {
+    position: relative;
+    width: 190vh;
+    left: 7vh;
+    color: black;
+    font-family: system-ui;
+}
+
+div#nine {
+    position: relative;
+    left: 2vh;
+    width: 58vh;
+}
+
+div#nine img {
+    width: 65vh;
+}
+
+div#nine h3 {
+    position: relative;
+    left: 2vh;
+    width: 61vh;
+    top: 2vh;
+}
+
+div#nine p {
+    position: relative;
+    top: 8vh;
+    left: 2vh;
+    color: black;
+    font-family: system-ui;
+}
+
+div#eight {
+    position: relative;
+    left: 72vh;
+    width: 58vh;
+    bottom: 61vh;
+    height: 0;
+}
+
+div#eight img {
+    width: 65vh;
+}
+
+div#eight h3 {
+    position: relative;
+    width: 70vh;
+    top: 2.5vh;
+}
+
+div#eight p {
+    position: relative;
+    top: 8vh;
+    left: 2vh;
+    color: black;
+    font-family: system-ui;
+}
+
+div#seven {
+    position: relative;
+    left: 142vh;
+    width: 58vh;
+    bottom: 92vh;
+    height: 0;
+}
+
+div#seven img {
+    position: relative;
+    width: 65vh;
+    top: 31vh;
+}
+
+div#seven h3 {
+    position: relative;
+    top: 33vh;
+    width: 71vh;
+}
+
+div#seven p {
+    position: relative;
+    top: 34.5vh;
+    left: 2vh;
+    color: black;
+    font-family: system-ui;
+}
+
+.kkk {
+    position: relative;
+    top: 21vh;
+    left: 6vh;
+}
+
+div#six p {
+    position: relative;
+    width: 108vh;
+    color: black;
+    height: 52vh;
+}
+
+div#six img {
+    position: relative;
+    width: 81vh;
+    height: 45vh;
+    bottom: 62vh;
+    left: 110vh;
+}
+
+.uuu {
+    position: relative;
+    height: 0;
+}
+
+div#five h2 {
+    position: relative;
+    width: 126vh;
+    bottom: 28vh;
+    left: 6vh;
+}
+
+div#five {
+    position: relative;
+    bottom: 5vh;
+    width: 154vh;
+}
+
+div#five p {
+    position: relative;
+    bottom: 26vh;
+    left: 6vh;
+    width: 116vh;
+    color: black;
+}
+
+div#five ul {
+    position: relative;
+    bottom: 23vh;
+    width: 126vh;
+    color: black;
+    left: 4vh;
+}
+
+div#five img {
+    position: relative;
+    bottom: 89vh;
+    height: 45vh;
+    left: 132vh;
+}
+
+.container-fluid.bg-dark.footer.mt-5.pt-5.wow.fadeIn {
+    position: relative;
+    top: 45vh;
+}

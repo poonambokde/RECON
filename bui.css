@@ -1,0 +1,83 @@
+h1.display-4.text-white.slideInDown.mb-4 {
+    position: relative;
+    top: 13vh;
+}
+
+nav {
+    position: relative;
+    top: 14vh;
+}
+
+div#one {
+    position: relative;
+    height: 40rem;
+}
+
+div#one img {
+    position: relative;
+    height: 87vh;
+    left: 1rem;
+}
+
+div#one p {
+    position: relative;
+    width: 80vh;
+    bottom: 82vh;
+    left: 100vh;
+    text-align: justify;
+}
+
+
+
+div#one p::first-letter {
+    initial-letter: 3;
+    margin-right: 6px;
+}
+
+div#one h1 {
+    position: relative;
+    width: 103vh;
+    top: -22px;
+    left: 32px;
+    font-family: 'Font Awesome 5 Brands';
+}
+
+div#two {
+    position: relative;
+    height: 40rem;
+}
+
+div#two img {
+    position: relative;
+    left: 48rem;
+    bottom: -28vh;
+}
+
+div#two p {
+    position: relative;
+    width: 80vh;
+    bottom: 82vh;
+    left: 9vh;
+    text-align: justify;
+}
+
+div#two p::first-letter {
+    initial-letter: 3;
+    margin-right: 6px;
+}
+
+.container-fluid.bg-dark.footer.mt-5.pt-5.wow.fadeIn {
+    position: relative;
+    top: 43vh;
+    height: 65vh;
+}
+
+.container.py-5 {
+    position: relative;
+    top: -103px;
+}
+
+.container-fluid.copyright {
+    position: relative;
+    bottom: 52px;
+}

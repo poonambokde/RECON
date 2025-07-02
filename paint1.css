@@ -1,0 +1,76 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+
+div#ddd {
+    width: 88vh;
+}
+
+div#ddd img {
+    position: relative;
+    left: 24vh;
+}
+
+div#aaa {
+    position: relative;
+    width: 91vh;
+    bottom: 162vh;
+    left: 96vh;
+    color: black;
+}
+
+div#bbb {
+    position: relative;
+    width: 81vh;
+    left: 100vh;
+    bottom: 157vh;
+    font-family: sans-serif;
+    color: black;
+}
+
+div#ccc {
+    position: relative;
+    width: 89vh;
+    color: black;
+    left: 100vh;
+    bottom: 156vh;
+}
+
+div#eee {
+    position: relative;
+    bottom: 146vh;
+    left: 82px;
+    width: 77vh;
+    font-family: sans-serif;
+    color: black;
+}
+
+div#fff {
+    position: relative;
+    width: 66vh;
+    bottom: 209vh;
+    left: 115vh;
+}
+
+div#ggg {
+    position: relative;
+    left: 167px;
+    bottom: 199vh;
+    width: 64vh;
+}
+
+div#hhh {
+    position: relative;
+    width: 95vh;
+    bottom: 268vh;
+    left: 104vh;
+}
+
+.container-fluid.bg-dark.footer.mt-5.pt-5.wow.fadeIn {
+    position: relative;
+    top: -231vh;
+}
